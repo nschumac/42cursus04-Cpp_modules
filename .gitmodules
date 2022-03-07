@@ -1,0 +1,27 @@
+[submodule "42cursus04-Cpp_module02"]
+	path = 42cursus04-Cpp_module02
+	url = git@github.com:nschumac/42cursus04-Cpp_module02.git
+[submodule "42cursus04-Cpp_module00"]
+	path = 42cursus04-Cpp_module00
+	url = git@github.com:nschumac/42cursus04-Cpp_module00.git
+[submodule "42cursus04-Cpp_module01"]
+	path = 42cursus04-Cpp_module01
+	url = git@github.com:nschumac/42cursus04-Cpp_module01.git
+[submodule "42cursus04-Cpp_module03"]
+	path = 42cursus04-Cpp_module03
+	url = git@github.com:nschumac/42cursus04-Cpp_module03.git
+[submodule "42cursus04-Cpp_module04"]
+	path = 42cursus04-Cpp_module04
+	url = git@github.com:nschumac/42cursus04-Cpp_module04.git
+[submodule "42cursus04-Cpp_module05"]
+	path = 42cursus04-Cpp_module05
+	url = git@github.com:nschumac/42cursus04-Cpp_module05.git
+[submodule "42cursus04-Cpp_module06"]
+	path = 42cursus04-Cpp_module06
+	url = git@github.com:nschumac/42cursus04-Cpp_module06.git
+[submodule "42cursus04-Cpp_module07"]
+	path = 42cursus04-Cpp_module07
+	url = git@github.com:nschumac/42cursus04-Cpp_module07.git
+[submodule "42cursus04-Cpp_module08"]
+	path = 42cursus04-Cpp_module08
+	url = git@github.com:nschumac/42cursus04-Cpp_module08.git
